@@ -1,0 +1,12 @@
+{
+  "name": "excel-tools",
+  "outputfilename": "excel-tools",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "bitfrost7",
+    "email": "bitfrost7@github.com"
+  }
+}
